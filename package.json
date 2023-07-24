@@ -1,27 +1,23 @@
 {
-  "name": "static",
+  "name": "calculating-tips",
   "version": "1.0.0",
-  "description": "This is a static template with no bundling",
+  "description": "Aplicação para cálculo de gorjetas.",
   "main": "index.html",
   "scripts": {
     "start": "serve",
-    "build": "echo This is a static template, there is no bundler or bundling involved!"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codesandbox-app/static-template.git"
+    "url": "git+https://github.com/juan-soares/calculating-tips"
   },
   "keywords": [
-    "static",
-    "template",
-    "codesandbox"
+    "html5",
+    "css3",
+    "javascript"
   ],
-  "author": "Ives van Hoorne",
+  "author": "Juan Carlos",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/codesandbox-app/static-template/issues"
-  },
-  "homepage": "https://github.com/codesandbox-app/static-template#readme",
+  "homepage": "https://juan-soares.github.io/calculating-tips",
   "devDependencies": {
     "serve": "^11.2.0"
   }
