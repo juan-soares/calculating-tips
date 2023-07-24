@@ -2,7 +2,7 @@
 
 ![Badge_Status](https://img.shields.io/badge/STATUS-CONCLUIDO-green)
 ![Badge_Versao](https://img.shields.io/badge/VERS%C3%83O-1.0-black)
-![Badge_Data](https://img.shields.io/badge/DATA-JULHO%2C2033-blue)
+![Badge_Data](https://img.shields.io/badge/DATA-JULHO%2C2023-blue)
 
 * 📑 [Descrição](#descrição)
 * 🔛 [Demo](#demo)
